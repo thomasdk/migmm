@@ -1,2 +1,2 @@
 # migmm
-Project Multiple Indicator growth mixture models
+Project: Multiple Indicator growth mixture models
