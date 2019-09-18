@@ -25,11 +25,11 @@ The following conditions were manipulated: measurement invariance of the latent 
 
 Keywords:
 
-Growth Mixture Modell / Growth Mixture Model
-Multiple Indicator / Multiple Indicator
-Messinvarianz / measurement invariance
-Monte Carlo Simulation / Monte Carlo Simulation
-Panelanalyse / Panelanalysis
+Growth Mixture Model;
+Multiple Indicator;
+measurement invariance;
+Monte Carlo Simulation;
+Panelanalysis;
 
 ### Online-Repository
 Krause, Thomas. 2019. Appendix Multiple Indicator Growth Mixture Models. [https://osf.io/aq29w/](https://osf.io/aq29w/).
