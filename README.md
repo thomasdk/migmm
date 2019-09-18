@@ -1,5 +1,5 @@
-# migmm
-## Project: Multiple Indicator growth mixture models
+# Project: Multiple Indicator growth mixture models
+## Projektanlass
 Dissertationsprojekt, welches sich mit der Performanz von Multiple Indikator (second order) Growth Mixture Modellen
 beschäftigt.
 
@@ -15,6 +15,7 @@ Im Rahmen dieses Promotionsprojekts wird untersucht, ob MIGMMs tatsächlich vali
 http://dx.doi.org/10.18419/opus-10420
 
 Abstract:
+
 Multiple Indicator Growth Mixture Models: a statistical simulation to evaluate performance for social science analysis.
 
 Multiple Indicator Growth Mixture Models (MIGMM) combine the design principles of latent measurement models, growth curve models, and latent class analysis.
