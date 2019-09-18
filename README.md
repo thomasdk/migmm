@@ -1,4 +1,4 @@
-# Project: Multiple Indicator growth mixture models
+# Project: Multiple Indicator Growth Mixture Models
 ## Projektanlass
 Dissertationsprojekt, welches sich mit der Performanz von Multiple Indikator (second order) Growth Mixture Modellen
 beschäftigt.
@@ -12,7 +12,7 @@ Trotz des vielversprechenden Potenzials der Analysemethodik ist noch nicht absch
 Im Rahmen dieses Promotionsprojekts wird untersucht, ob MIGMMs tatsächlich valide Schätzergebnisse liefern können und wiefern die Identifikation von latenten Wachstumsklassen zuverlässig ist. Anhand einer Monte-Carlo-Simulation wird die Leistungsfähigkeit von MIGMMs unter verschiedenen Datensituationen (Messinvarianz der Konstrukte, Fallzahl, Größe der Klassen, Klassenunterschiede etc.) evaluiert. 
 
 ## Veröffentlichungen zu diesem Projekt:
-http://dx.doi.org/10.18419/opus-10420
+[http://dx.doi.org/10.18419/opus-10420](http://dx.doi.org/10.18419/opus-10420)
 
 Abstract:
 
