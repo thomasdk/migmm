@@ -40,6 +40,7 @@ Krause, Thomas. 2019. Appendix Multiple Indicator Growth Mixture Models. [https:
 ### Title and Abstract:
 
 (Informationskriterien zur latenten Klassenidentifikation für Multiple Indicator Growth Mixture Models)
+
 Information criteria for latent class identification in multiple indicator growth mixture models
 
 This paper evaluates information criteria for class identification in multiple indicator growth mixture models. This identification of latent classes is evaluated under the simulation conditions of missing invariance of the measurement and different class distances. The data used are based on a Monte Carlo simulation study. This paper extends previous results by evaluating a broader range of IC-Indices. All previously proposed IC measures are examined for their ability to identify classes and compared with more recent proposals. These include the Hierarchical BIC, which explicitly takes the latent class structure into account.
